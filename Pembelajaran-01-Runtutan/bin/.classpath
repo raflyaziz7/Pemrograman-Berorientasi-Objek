@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="eclipse/configuration/org.eclipse.osgi/206/data/317242691/content.jar"/>
+	<classpathentry kind="lib" path="eclipse/configuration/org.eclipse.osgi/214/data/listener_1925729951/artifacts.jar"/>
+	<classpathentry kind="lib" path="eclipse/configuration/org.eclipse.osgi/214/data/listener_1925729951/content.jar"/>
+	<classpathentry kind="lib" path="eclipse/configuration/org.eclipse.osgi/256/0/.cp/lib/launchingsupport.jar"/>
+	<classpathentry kind="lib" path="eclipse/plugins/org.eclipse.equinox.launcher_1.8.0.v20260804-1928.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
